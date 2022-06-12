@@ -1,4 +1,4 @@
 # Cryptocurrency-Visualizer
 
-![demo!]{images/demo.png}
+![demo!]{demo.png}
 
